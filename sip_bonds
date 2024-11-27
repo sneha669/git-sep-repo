@@ -20,3 +20,7 @@ public class HelloWorld {
         System.out.println("You entered: " + number);
     }
 }
+
+Adding New Lines
+Git automatic build job Creating
+Build is success.
